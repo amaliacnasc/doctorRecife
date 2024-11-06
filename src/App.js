@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Navbar from './components/Navbar/Navbar';
+import Home from './components/Home/Home'
+import MiddleCta from './components/middleCTA/MiddleCTA';
+import About from './components/About/About'
+import Doctors from './components/Doctors/Doctors';
 
-function App() {
+const App = () => {
+  console.log("App loaded");
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div> {/* Removido o <view> */}
+     <Navbar></Navbar>
+     <Home></Home>
+     <MiddleCta></MiddleCta>
+     <About></About>
+     <Doctors></Doctors>
     </div>
   );
-}
+};
 
 export default App;

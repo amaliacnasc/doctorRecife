@@ -1,0 +1,23 @@
+.foto-header{
+    width: 80vh;
+    height: 60vh;
+}
+.container-texto{
+    display: flex;
+    flex-direction: column;
+    padding: 10vh;
+    align-items: center;
+}
+.tamanho-botao{
+    margin-top: 3vh;
+    width: 50vh;
+}
+
+.fonte-verde{
+    color: #3BA92C;
+    font-family: 'Poppins', sans-serif;
+}
+.fonte{
+    font-family: 'Poppins', sans-serif;
+    
+}

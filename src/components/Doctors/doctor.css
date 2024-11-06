@@ -1,0 +1,32 @@
+.foto-medico{
+    width: 30vh;
+    height: 30vh;
+}
+.container-foto-especialidade{
+    display: flex;
+    flex-direction: column;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 8px;
+    height: 90%;
+    margin-top: 5vh;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    opacity: 95%;
+
+}
+.container-especialidades{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #80d874;
+    margin-bottom: 5vh;
+    
+}
+.fonte-especialidades{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+.fonte-especialidades-titulo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+}

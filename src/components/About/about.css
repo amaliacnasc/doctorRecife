@@ -1,0 +1,31 @@
+.container-sobre{
+    display: flex;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    align-items: center;
+    justify-items: right;
+}
+
+.foto-sobre{
+    width: 60vh;
+    height: 60vh;
+    border-radius: 8px;
+}
+.fonte-sobre{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+.fonte-sobre-titulo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    color:  #3BA92C;
+}
+.container-foto{
+    display: flex;
+    justify-content: center;
+}
+.centralizar-botao {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
