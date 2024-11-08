@@ -4,3 +4,5 @@
 <p>React: Biblioteca JavaScript para a criação de interfaces de usuário dinâmicas e reativas.</p>
 <p>Bootstrap e React-Bootstrap: Framework CSS para criação de interfaces responsivas e atraentes.</p>
 <p>Bootstrap Icons: Ícones de fácil implementação para melhorar a experiência visual.</p>
+
+<img src="../doctor-recife/src/assets/print.png" alt="Imagem do Projeto" width="600"/>

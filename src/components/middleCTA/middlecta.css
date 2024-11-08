@@ -1,5 +1,5 @@
 .container-cta{
-    background-color: #3BA92C;
+    background-color: #80d874;
 }
 .container-redes{
     display: flex;
@@ -56,4 +56,11 @@
 .fonte-icones{
     font-family: 'Poppins', sans-serif;
     font-size: 1rem;
+}
+.titulo-secao-especialidades{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    padding: 2vh;
+    margin-bottom: 2vh;
 }

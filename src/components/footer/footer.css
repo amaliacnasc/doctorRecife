@@ -1,0 +1,38 @@
+.loc , .copy, .wpp{
+    color: #ffffff;
+    padding-right: 1vh;
+}
+.copy{
+    padding-left: 1vh;
+}
+
+.fonte-titulo-footer{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+.contato{
+    margin-top: 3vh;
+}
+.contato:hover{
+    color: #f2f2f2a1;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.fonte-footer{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+.container-footer{
+    background-color: #198754;
+}
+
+.copywr{
+    display:flex; 
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+}

@@ -7,8 +7,8 @@ import './doctor.css'
 const Doctors = () => {
   console.log("App loaded")
   return (
-    <div className='row container-especialidades '>
-     <h3 className='fonte-especialidades-titulo text-center text-uppercase mt-3'>Conheça nossas especialidades</h3>
+    <div id="especialidades" className='row container-especialidades '>
+     <h2 className='titulo-secao-especialidades '>Conheça nossas especialidades</h2>
      <div className='col-lg-12 container-especialidades'>
       <div className='container-foto-especialidade'>
       <img className='foto-medico' src={doctor1} alt='foto medico' ></img>

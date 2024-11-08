@@ -5,12 +5,12 @@ import doctor6 from '../../assets/about_image.png'
 
 function About() {
   return (
-    <div className='row container-sobre'>
+    <div   id="home" className='row container-sobre'>
       <div className='col-lg-6 container-foto'>
         <img className='foto-sobre' src={doctor6} alt='foto medico sobre'></img>
       </div>
       <div className='col-lg-6 '>
-        <h3 className='text-center text-uppercase fonte-sobre-titulo'>Doctor Recife </h3>
+        <h2 className='titulo-secao'>Doctor Recife </h2>
         <p className='fonte-sobre text-justify'>Bem-vindo à Doctor Recife, sua clínica de saúde de confiança na cidade de Recife. Nossa missão é oferecer atendimento médico de qualidade, acessível e humanizado, com uma equipe dedicada e especializada em diferentes áreas da saúde. </p>
         <dl>
           <dt className='fonte-sobre'>Equipe de Especialistas</dt>

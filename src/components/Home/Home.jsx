@@ -8,7 +8,7 @@ import './home.css'
 const Home = () => {
   console.log("App loaded")
   return (
-    <div >
+    <div  id="about" >
         <div className='row mt-3'>
             <div className='col-lg-6 container-texto'>
               <h1 className='text-uppercase fonte-verde'>Sua saúde é nossa prioridade</h1>

@@ -1,0 +1,32 @@
+.foto-feedback{
+    width: 20vh;
+    height: 20vh;
+    border-radius: 8px;
+}
+
+.depoimento{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    margin-top: 2vh;
+    text-align: justify;
+}
+.estrela{
+    color: #DFAE31;
+}
+
+.container-feedback{
+    display: flex;
+    align-items: flex-start
+}
+.container-foto-feedback{
+    margin-right: 2vh;
+    margin-left: 2vh;
+}
+
+.titulo-secao{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #72BF78;
+    padding: 2vh;
+    margin-bottom: 2vh;
+}
