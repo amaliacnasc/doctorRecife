@@ -5,4 +5,4 @@
 <p>Bootstrap e React-Bootstrap: Framework CSS para criação de interfaces responsivas e atraentes.</p>
 <p>Bootstrap Icons: Ícones de fácil implementação para melhorar a experiência visual.</p>
 
-<img src="./assets/print.png" alt="Imagem do Projeto" width="600"/>
+<img src="./src/assets/print.png" alt="Imagem do Projeto" width="600"/>
